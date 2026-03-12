@@ -112,10 +112,5 @@ https://github.com/Ibad2004
 
 ---
 
-# 🐍 Contribution Snake
-
-![snake](https://github.com/Ibad2004/Ibad2004/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ⭐ **From Ibad Ur Rahman**
